@@ -1,0 +1,22 @@
+.main {
+	padding-left: 5px;
+	padding-right: 5px;
+}
+
+.big.menu {
+	border-radius: 0px;
+	margin: 0;
+	padding: 0;
+	position: sticky;
+	top: 0px;
+	z-index: 1;
+}
+
+body {
+	overflow-x: all;
+	font-size: 20px !important;
+	background-image: url("/img/bg.jpg") !important;
+	background-size: 100% !important;
+	background-attachment: fixed !important;
+}
+
